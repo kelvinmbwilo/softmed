@@ -116,7 +116,7 @@
 			
 			<h2>OUR MISSION </h2>
 			
-			<p class="text-left lead">
+			<p class="text-left">
                             Our mission is to lead the advancement of medical sciences in developing countries and to provide 
                             best possible health care solutions of any magnitude to individuals, families and national health 
                             needs, by incorporating state-of-the art medical sciences and technological innovations into day-to-day 
@@ -130,7 +130,7 @@
 		<div class="thumbnail">
 			
 			<h2>OUR GOAL</h2>
-                        <p class="text-left lead">
+                        <p class="text-left">
                             Our goal is to deliver technology solutions offering lasting strategic value to your enterprise.   
                             Our team in conjunction with the right partners  works to ensure that the solution is deployed 
                             with the right products, future-proofed with the right architecture, and implemented with our 
@@ -143,12 +143,12 @@
 		<div class="thumbnail">
 			
 			<h2>BUSINESS DEVELOPMENT STRATEGY</h2>
-                        <p class="text-left lead">
+                        <p class="text-left">
                             <strong>SOFTMED CO. LTD</strong> provides and actively pursue innovative technologies and new business 
                             opportunities that enable businesses to make an effective transition to true e-business environments.  
                             Faced with increased globalization, mergers and acquisitions, and the need to stay "one step ahead" of the 
                             competition, the value of standards-based service-oriented solutions has never been greater.
-                        </p><p class="text-left lead">
+                        </p><p class="text-left">
                             <strong>SOFTMED</strong>  enjoys an established track record of excellent support & service standards with our customers.  
                             Their numerous expressions of satisfaction and encouragement are invaluable to us, and we intend to continue our advances 
                             and growth in the information technology industry with more unique and effective products & services.
@@ -160,7 +160,7 @@
 </div>
 </div>
 
-<!-- Products======================================== -->
+<!-- Services======================================== -->
 <div id="ourServices"> 	
 <div class="container">	
 		<h1 class="cntr">Our Services</h1>
@@ -168,7 +168,7 @@
 		<div class="span4">
 			<div class="thumbnail">
 				
-				<h4>Web Design</h4>
+				<h4>Networking Solutions</h4>
 				
 				<h5>Your Website represents You...</h5>
 				<ul class="unstyled">
@@ -291,7 +291,7 @@
 </div>
 </div>
 
-<!-- Our Portfolio======================================== -->
+<!-- Products======================================== -->
 <div id="portfolioSection">
 <h1 class="cntr">Our Portfolio</h1>
 <div class="container">	
