@@ -25,6 +25,13 @@
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 </head>
 <body data-spy="scroll" data-target=".navbar">
+    <div class="row-fluid">
+        <div class="span1">
+            
+        </div>
+        <div class="span10">
+            
+        
     <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -213,7 +220,6 @@
                     </div>
                 </div>
 		</div>
-</div>
 </div>
 </div>
 
@@ -1024,7 +1030,7 @@
             <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Mbeya+Airport,+Mbeya,+Tanzania&amp;aq=0&amp;oq=Mbeya+air&amp;sll=-8.919796,33.46487&amp;sspn=0.023827,0.042272&amp;ie=UTF8&amp;hq=Mbeya+Airport,+Mbeya,+Tanzania&amp;t=h&amp;ll=-8.920856,33.466501&amp;spn=0.02035,0.027466&amp;z=15&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Mbeya+Airport,+Mbeya,+Tanzania&amp;aq=0&amp;oq=Mbeya+air&amp;sll=-8.919796,33.46487&amp;sspn=0.023827,0.042272&amp;ie=UTF8&amp;hq=Mbeya+Airport,+Mbeya,+Tanzania&amp;t=h&amp;ll=-8.920856,33.466501&amp;spn=0.02035,0.027466&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>		<div class="span3">	
                 </div>
 		</div> 
-</div> 
+</div> </div> 
 <!-- Wrapper end -->
 
 <div id="footerSection">
@@ -1064,5 +1070,11 @@
 	  interval: 5000
 	})
 </script>
+
+</div>
+        <div class="span1">
+            
+        </div>
+    </div>
 </body>
 </html>
