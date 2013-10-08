@@ -104,7 +104,8 @@
 			<a class="right carousel-control" href="#testimonial" data-slide="next">&rsaquo;</a>
 		</div>-->
 
-		
+<div class="row-fluid">
+    <div class="span8">
 		<h2>Welcome!</h2>
 		<p class="text-left">
 		SoftMed Company Limited  is one of the  
@@ -114,6 +115,21 @@
                 Business Engineering,  eHealth  Solutions including Electronic Medical Records Solutions (EMRs) customizations ,
                 implementation and support ,Financial Management Information Systems (FMIS) 
                 </p>
+    </div>
+    <div class="span4 text-right">
+        <div>
+            <h4>SOFTMED  COMPANY LIMITED</h4>
+            <p>
+                    UPENDO HOSTELS VILLAGE ,<br>
+                    P.O BOX 6<br>
+                    MBEYA<br>
+                    Phone: 1234567891<br>
+                    Email: <a href="info@softmedtz.com">info@softmedtz.com</a><br>
+                    website: <a href="http://www.softmedtz.com">www.softmedtz.com</a>
+            </p>
+    </div>
+    </div>
+</div>
 	</div>
 </div>
 
@@ -986,7 +1002,7 @@
 					website: <a href="http://www.softmedtz.com">www.softmedtz.com</a>
 				</p>
 			</div>
-			<br>
+			
 			<br>
 			<div>
 				<h4>SOFTMED  COMPANY LIMITED</h4>
@@ -1024,7 +1040,7 @@
 		<a href="#blogSection">Blog</a>
 		<a href="#contactSection">Support</a>
 	</div>
-		<p><small>www.tuplipllc.com &copy; 2013 All rights reserved.</small></p>
+            <p><small>SoftMed Company Limited &copy; <?php echo date("Y") ?> All rights reserved.</small></p>
 	</div>
 </div>
 <a href="#" class="go-top" style="display: none;"><i class="icon-double-angle-up"></i></a>
@@ -1045,7 +1061,7 @@
 	  interval: 10000
 	})
 	$('#myCarousel').carousel({
-	  interval: 7000
+	  interval: 5000
 	})
 </script>
 </body>
