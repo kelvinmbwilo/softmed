@@ -19,7 +19,7 @@
         }
 body{ padding:0; color: #454545; font-family: 'Open Sans', sans-serif;}
 a,a:hover{text-decoration:none; color:#FE5214}
-h2,h3{color:#FE5214; text-rendering: optimizelegibility; }
+.icon-star,h2,h3{color:#FE5214; text-rendering: optimizelegibility; }
 h1{padding: 0 0 44px; font-weight: 200;font-size: 54px;line-height: 56px;color: #464646;margin: 0;font-family: 'HelveticaRegular';text-rendering: optimizelegibility;}
 h1.brand {
     padding: 0;

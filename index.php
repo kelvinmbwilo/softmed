@@ -166,14 +166,34 @@
                         </p>
 			<!--<a href="#"> More detail</a><p></p>-->
 		</div>
+                        
+                <div class="thumbnail text-left" style="margin-bottom: 20px">
+                    <h2>STRENGTHS</h2>
+                    <p><i class="icon-expand"></i> Diversified business interests</p>
+                    <p><i class="icon-expand"></i> High customer focus</p>
+                    <p><i class="icon-expand"></i> Committed to providing solutions and “Customer Care”</p>
+
+<p>We are dedicated to a business philosophy of delivering superior value, quality and service in response to defined customer needs.  This distinction has been achieved due to:
+</p>
+<p class=""><i class="icon-chevron-right"></i> The confidence of our customers in  the  Products & Services offered by us  and our Attitude. </p>
+<p class=""><i class="icon-chevron-right"></i> Our focus on building lifetime value relationships with our Customers by enhancing their business efficiency and profitability.</p>
+<p class=""><i class="icon-chevron-right"></i> The relationships with our Partners, which have been the driving force to provide leading edge technology products to our Customers on a continual basis.</p>
+		</div>
 		</div>
                     
                     <div class="span4">
                         <!-- Place this tag where you want the widget to render. -->
 <div class="g-person" data-width="292" data-href="//plus.google.com/107827318743472275366" data-theme="dark" data-rel="author"></div>
+
+<!--facebook-->
 <div class="fb-like-box" data-href="http://www.facebook.com/Softmed2011" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
 
- <!--Facebook Badge START <a href="https://www.facebook.com/kelvinmbwilo" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Mbwilo Kelvin">Mbwilo Kelvin</a><span style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; line-height: 16px; font-variant: normal; font-style: normal; font-weight: normal; color: #555555; text-decoration: none;">&nbsp;|&nbsp;</span><a href="https://www.facebook.com/badges/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Create Your Badge</a><br/><a href="https://www.facebook.com/kelvinmbwilo" target="_TOP" title="Mbwilo Kelvin"><img src="https://badge.facebook.com/badge/100000925461109.3116.454541521.png" style="border: 0px;" /></a> Facebook Badge END -->
+<!--linkedlin-->
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="http://www.linkedin.com/pub/kelvin-mbwilo/72/60b/5aa" data-format="inline" data-related="false"></script>
+                   <a class="twitter-timeline" href="https://twitter.com/search?q=%23corgi" data-widget-id="387528546043711488">Tweets about "#corgi"</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
                     </div>
                 </div>
 		</div>
@@ -192,11 +212,7 @@
 				<h4>Networking Solutions</h4>
 				
 				<h5>Your Website represents You...</h5>
-				<ul class="unstyled">
-				<li>Website Design</li>
-				<li>PSD To XHTML &amp; CSS Conversion</li>
-				<li>Graphic Design (Coverpage, Logo, Brocer etc.)</li>
-				</ul>
+                                <p>offers complete and practical solutions to the design, supply, installation and maintenance of IT networks for organizations in diverse sectors</p>
 				<a href="#"> More detail</a><p></p>
 			</div>
 			<br>
@@ -215,26 +231,14 @@
 				</ul>
 			<a href="#"> More detail</a><p></p>
 		</div>
-		<br>
-
-			<div class="thumbnail">
-				
-				<h4>SEO</h4>
-				<h5>For any online activities  ... </h5>
-			<ul class="unstyled">
-				<li>PSD to XHTML and CSS Conversion</li>
-				<li> Updating old website to new generation. </li>
-				<li> Compitable with different Browser. </li>
-			</ul>
-			<a href="#"> More detail</a><p></p>
-			</div>
+		
 		</div>
 		<div class="span4">
 
 		<div class="thumbnail">
 		
 			<h4>Website Development</h4>
-			<h5>For any online activities  ... </h5>
+			<h5>Your Website represents You...</h5>
 			<ul class="unstyled">
 				<li>PSD to XHTML and CSS Conversion</li>
 				<li> Updating old website to new generation. </li>
@@ -245,7 +249,7 @@
 		<br>
 		<div class="thumbnail">
 			
-			<h4>Webpage Customizations</h4>
+			<h4>Business process engineering</h4>
 			
 			<h5>Drive your business in The Fast Track...</h5>
 				<ul class="unstyled">
@@ -253,39 +257,13 @@
 					<li> E-commersesite, Blogs and Forums etc.</li>
 					<li> Customization web packages </li>
 				</ul>
-			<a href="#"> More detail</a><p></p>
-		</div>
-		<br>
-
-		<div class="thumbnail">
-			
-			<h4>Optimizations</h4>
-			<h5>For any online activities  ... </h5>
-			<ul class="unstyled">
-				<li>PSD to XHTML and CSS Conversion</li>
-				<li> Updating old website to new generation. </li>
-				<li> Compitable with different Browser. </li>
-			</ul>
 			<a href="#"> More detail</a><p></p>
 		</div>
 		</div>
 		<div class="span4">
-		<div class="thumbnail">
+                    <div class="thumbnail">
 			
-			<h4>Webpage Customizations</h4>
-			
-			<h5>Drive your business in The Fast Track...</h5>
-				<ul class="unstyled">
-					<li> Customizing different websites  </li>
-					<li> E-commersesite, Blogs and Forums etc.</li>
-					<li> Customization web packages </li>
-				</ul>
-			<a href="#"> More detail</a><p></p>
-		</div>
-		<br>
-		<div class="thumbnail">
-			
-			<h4>Webpage Customizations</h4>
+			<h4>Hardware Maintenances</h4>
 			
 			<h5>Drive your business in The Fast Track...</h5>
 				<ul class="unstyled">
@@ -295,20 +273,75 @@
 				</ul>
 			<a href="#"> More detail</a><p></p>
 		</div>
-		<br>
+                    <br>
 		<div class="thumbnail">
 			
-			<h4>Multimedia</h4>
-			<h5>For any online activities  ... </h5>
-			<ul class="unstyled">
-				<li>PSD to XHTML and CSS Conversion</li>
-				<li> Updating old website to new generation. </li>
-				<li> Compitable with different Browser. </li>
-			</ul>
+			<h4>Research and consultancy services</h4>
+			
+			<h5>Drive your business in The Fast Track...</h5>
+                        <p>SOFTMED  is involved in research and offers consultancy services to  Ministry of Health and social 
+                                welfare where its Consultants was involved in the preparation of eHealth strategy in which Telemedicine
+                                was among of the components </p>
 			<a href="#"> More detail</a><p></p>
 		</div>
+		
+		
 		</div>
 </div>
+                <div class="row-fluid" style="padding: 20px">
+                    <img src="themes/images/network.jpg" class="img-circle pull-left" style="padding: 5px">
+                    <h3>Network Solutions</h3>
+                    <p class="text-left"><b>SOFTMED</b> offers complete and practical solutions to the design, supply, installation and maintenance of IT networks for organizations in diverse sectors. We have the expertise and experience to meet all the requirements of your network at the right cost. In Networking, we offer the entire array of WAN/LAN Solutions & Products incorporating the latest technologies from global pioneers.
+
+                    We offer a comprehensive networking consultancy service to our clients. We have considerable in-house experience and have highly trained engineers and consultants who specialize in the planning, designing and implementation of network systems to ensure reliability and appropriateness for your specific business requirements. We have given quality professional advice to many businesses and have fulfilled their specific requirements.
+
+                    Today, in this complex and competitive IT environment, networking has become an integral part of everyday business computing solutions. More and more businesses are finding that operating on a network is more effective and cost efficient.
+
+                    We at <b>SOFTMED</b> design networking in such a way that it increases productivity, reduces cost, and simplifies installing. Using inter-networking and intra-networking hardware and software, and our advanced security products, and consulting services, you will be able to transmit information more securely and expand your Business Potential. </p>
+                    <img src="themes/images/resech.jpg" class="img-circle pull-right" style="padding: 5px">
+                    <h3> Research and consultancy services</h3>
+                    <p class="text-left">SOFTMED  is involved in research and offers consultancy services to  Ministry of Health and social welfare where its Consultants was involved in the preparation of eHealth strategy in which Telemedicine was among of the components .SOFTMED  has been collaborating with various partner organizations, such as Muhimbili University of Health and Allied Sciences,Tanga region Administrative office , University of Stockholm,d-tree international , Harvard school of Public Health ,Christian Social Service Commission, Evangelical Lutheran Church in Tanzania, etc. in conducting various health systems strengthening Consultancies and studies . </p>
+
+                    <p class="text-left">SOFTMED CO. Ltd  have been providing consultancy services to government agencies, parastatals and non-governmental organizations in Health Management information Systems, Telemedicine systems ,research, reproductive health, health management, planning and policy; and other health related issues as per need. </p>
+                    <div class="text-left">     
+                    <p class="lead">
+                    SOFTMED staff members have been involved in providing the following community based services: to mention these are among of the  FEW 
+                    </p>
+                <p class="offset1">
+                    <i class="icon-star"></i> Baseline survey/situational analysis for Local Community Competence Building and HIV/AIDS Prevention Programme in Tanzania-Funded by European Union
+                </p><hr />
+                <p class="offset1">
+                    <i class="icon-star" style="color:#FE5214;"></i>Evaluation of IICD supported Computerised Health Management Information Systems Projects in Arusha and Mwanza 
+                </p><hr />
+
+                <p class="offset1">
+                    <i class="icon-star"></i>Evaluation of ELCT Telemedicine Project which operates under Church Health facilities the Project is Supported by CORDAID,IICD of the Netherlands.
+                </p><hr />
+                <p class="offset1">
+                    <i class="icon-star"></i>Ministry of Health and social welfare supporting the development of eHealth strategy with special focus on mhealth and Telemedicine under the auspices of IICD and WHO .
+                </p><hr />
+
+                <p class="offset1">
+                    <i class="icon-star"></i>Train Health Managers on the Role of ICT interventions in the provision of Health service delivery 
+                </p><hr />
+                <p class="offset1">
+                    <i class="icon-star"></i>Development of Medcare intergrated Health Management Information systems in collaboration with Niafikra Co. Ltd ,the system is web-based and is now on implementation phase (built in JAVA and MySQL)
+                </p><hr />
+                <p class="offset1">
+                    <i class="icon-star"></i>Involved in the Implementation of Computerised HMIS systems in Bombo regional  hospital and all five districts within the Tanga region under NPK Project was been Supported with GIZ 
+                </p><hr />
+
+                <p class="offset1">
+                    <i class="icon-star"></i>In Collaboration with WebERP Africa Company Limited –Uganda , the  webERP implementor  implemented Intergrated version of care2x and WebERP to the state of art Hospital ,300 beds Kampala International Hospital,Kampala Uganda 
+                </p><hr />
+                <p class="offset1">
+                    <i class="icon-star"></i>Participated in eMobile Health Project ,in collaboration with CSSC ,and MUHAS in a Project which we developed m-HEALTH application that was sensitising pregnancy women to attend to the Hospitals and most important it increases Hospital delivery this was Funded with SIDA, 
+                </p><hr />
+                <p class="offset1">
+                    <i class="icon-star"></i>TECHNICAL Partner of Mama Kwanza Project ,CIDA funded project that aims to improve Maternal Health in Northern zone and Lake zone ,On going Project .
+                </p>
+                    </div> </div>
+                
 </div>
 </div>
 
