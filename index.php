@@ -34,7 +34,7 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 	<div id="headerSection">
-	<div class="container">
+	<div class="container-fluid">
 		<h1 class="brand cntr">SOFTMED</h1>
 		<div class="navbar">
                     
@@ -86,7 +86,7 @@
 <!-- Sectionone block ends======================================== -->
  
 <div id="welcomeSection"> 
-	<div class="container cntr">
+	<div class="container-fluid cntr">
 <!--			<h4>Testimonials</h4>
 			<div id="testimonial" class="carousel slide">
 			<div class="carousel-inner">
@@ -136,9 +136,9 @@
 
 <!-- About Us======================================== -->
 <div id="aboutUs"> 	
-<div class="container">	
+<div class="container-fluid">	
 		<h1 class="cntr">About Us</h1>
-		<div class="row">
+		<div class="row-fluid">
 		<div class="row-fluid">
                     <div class="span8">
 		<div class="thumbnail" style="margin-bottom: 20px">
@@ -219,9 +219,9 @@
 
 <!-- Services======================================== -->
 <div id="ourServices"> 	
-<div class="container">	
+<div class="container-fluid">	
 		<h1 class="cntr">Our Services</h1>
-		<div class="row">
+		<div class="row-fluid">
 		<div class="span4">
 			<div class="thumbnail">
 				
@@ -364,7 +364,7 @@
 <!-- Products======================================== -->
 <div id="portfolioSection">
 <h1 class="cntr">Our Portfolio</h1>
-<div class="container">	
+<div class="container-fluid">	
 	<ul class="nav nav-pills">
 	<li class="active"><a href="#all" data-toggle="tab">ALL</a></li>
 	<li class=""><a href="#new" data-toggle="tab">NEW</a></li>
@@ -836,8 +836,8 @@
 <!-- Contact Section -->
 <div id="blogSection">
 <h1 class="cntr"> OUR BLOG</h1>
-<div class="container">
-<div class="row">
+<div class="container-fluid">
+<div class="row-fluid">
 	<div class="span9">
 		<div class="blogBlk">
 		<div class="inner">
@@ -948,8 +948,8 @@
 <!-- Contact Section -->
 <div id="contactSection">
 <h1 class="cntr">Contact Us</h1>
-	<div class="container">	
-		<div class="row">	
+	<div class="container-fluid">	
+		<div class="row-fluid">	
 		<div class="span9">
 			<div class="alert alert-error">( * )Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
 			<form class="form-horizontal">
