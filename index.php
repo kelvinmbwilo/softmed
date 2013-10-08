@@ -10,6 +10,10 @@
 	<link id="callCss" rel="stylesheet" href="themes/css/style.css" type="text/css" media="screen" charset="utf-8" />
 	<link href="themes/css/bootstrap-responsive.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="themes/font-awesome/css/font-awesome.min.css">
+        <!-- Place this tag in your head or just before your close body tag. -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
 	<!--[if IE 7]>
 	  <link rel="stylesheet" href="themes/font-awesome/css/font-awesome-ie7.css">
 	<![endif]-->
@@ -21,6 +25,14 @@
 <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 </head>
 <body data-spy="scroll" data-target=".navbar">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 	<div id="headerSection">
 	<div class="container">
 		<h1 class="brand cntr">SOFTMED</h1>
@@ -112,7 +124,8 @@
 		<h1 class="cntr">About Us</h1>
 		<div class="row">
 		<div class="row-fluid">
-		<div class="thumbnail">
+                    <div class="span8">
+		<div class="thumbnail" style="margin-bottom: 20px">
 			
 			<h2>OUR MISSION </h2>
 			
@@ -126,8 +139,7 @@
                         </p>
 			<!--<a href="#"> More detail</a><p></p>-->
 		</div>
-		<br>
-		<div class="thumbnail">
+                    <div class="thumbnail" style="margin-bottom: 20px">
 			
 			<h2>OUR GOAL</h2>
                         <p class="text-left">
@@ -139,8 +151,7 @@
                         </p>
 			<!--<a href="#" class="btn btn-mini btn-warning"> More detail</a><p></p>-->
 		</div>
-		<br>
-		<div class="thumbnail">
+		<div class="thumbnail" style="margin-bottom: 20px">
 			
 			<h2>BUSINESS DEVELOPMENT STRATEGY</h2>
                         <p class="text-left">
@@ -155,6 +166,16 @@
                         </p>
 			<!--<a href="#"> More detail</a><p></p>-->
 		</div>
+		</div>
+                    
+                    <div class="span4">
+                        <!-- Place this tag where you want the widget to render. -->
+<div class="g-person" data-width="292" data-href="//plus.google.com/107827318743472275366" data-theme="dark" data-rel="author"></div>
+<div class="fb-like-box" data-href="http://www.facebook.com/Softmed2011" data-width="The pixel width of the plugin" data-height="The pixel height of the plugin" data-colorscheme="dark" data-show-faces="true" data-header="true" data-stream="false" data-show-border="false"></div>
+
+ <!--Facebook Badge START <a href="https://www.facebook.com/kelvinmbwilo" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Mbwilo Kelvin">Mbwilo Kelvin</a><span style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; line-height: 16px; font-variant: normal; font-style: normal; font-weight: normal; color: #555555; text-decoration: none;">&nbsp;|&nbsp;</span><a href="https://www.facebook.com/badges/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Create Your Badge</a><br/><a href="https://www.facebook.com/kelvinmbwilo" target="_TOP" title="Mbwilo Kelvin"><img src="https://badge.facebook.com/badge/100000925461109.3116.454541521.png" style="border: 0px;" /></a> Facebook Badge END -->
+                    </div>
+                </div>
 		</div>
 </div>
 </div>
@@ -917,38 +938,42 @@
 					<button class="btn">Cancel</button>
 				  </div>
 				</fieldset>
-			  </form>
-		</div> 
-		<div class="span3">	
-			<div>
-				<h4>Tulip LLC</h4>
+                        </form></div> 
+        	
+<div class="span3">
+    <div>
+				<h4>SOFTMED  COMPANY LIMITED</h4>
 				<p>
-					Tulip LLC Los Angeles
-					102 W. 1st St.
-					Los Angeles, CA 90011<br>
+					UPENDO HOSTELS VILLAGE ,<br>
+					P.O BOX 6<br>
+					MBEYA<br>
 					Phone: 1234567891<br>
 					Fax: 109876543212<br>
-					Email: <a href="mailto:info@tulipllc.com">info@tulipllc.com</a><br>
-					website: <a href="http://www.tulipllc.com">www.tulipllc.com</a>
+					Email: <a href="info@softmedtz.com">info@softmedtz.com</a><br>
+					website: <a href="http://www.softmedtz.com">www.softmedtz.com</a>
 				</p>
 			</div>
 			<br>
 			<br>
 			<div>
-				<h4>Tulip LLC</h4>
+				<h4>SOFTMED  COMPANY LIMITED</h4>
 				<p>
-					Tulip LLC, Newyork
-					231 NY. Mage St.
-					Newyork, NY 80021<br>
-					Phone: 3467236346<br>
-					Fax: 7453734734<br>
-					Email: <a href="mailto:info@tulipllc.com">info@tulipllc.com</a><br>
-					website: <a href="http://www.tulipllc.com">www.tulipllc.com</a>
+					UPENDO HOSTELS VILLAGE ,<br>
+					P.O BOX 6<br>
+					MBEYA<br>
+					Phone: 1234567891<br>
+					Fax: 109876543212<br>
+					Email: <a href="info@softmedtz.com">info@softmedtz.com</a><br>
+					website: <a href="http://www.softmedtz.com">www.softmedtz.com</a>
 				</p>
 			</div>
 		</div>
 		
-		</div> 
+		</div>
+            <h1 class="cntr">Visit Us</h1>
+            <div class="row-fluid text-center">
+            <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Mbeya+Airport,+Mbeya,+Tanzania&amp;aq=0&amp;oq=Mbeya+air&amp;sll=-8.919796,33.46487&amp;sspn=0.023827,0.042272&amp;ie=UTF8&amp;hq=Mbeya+Airport,+Mbeya,+Tanzania&amp;t=h&amp;ll=-8.920856,33.466501&amp;spn=0.02035,0.027466&amp;z=15&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Mbeya+Airport,+Mbeya,+Tanzania&amp;aq=0&amp;oq=Mbeya+air&amp;sll=-8.919796,33.46487&amp;sspn=0.023827,0.042272&amp;ie=UTF8&amp;hq=Mbeya+Airport,+Mbeya,+Tanzania&amp;t=h&amp;ll=-8.920856,33.466501&amp;spn=0.02035,0.027466&amp;z=15" style="color:#0000FF;text-align:left">View Larger Map</a></small>		<div class="span3">	
+                </div>
 		</div> 
 </div> 
 <!-- Wrapper end -->
