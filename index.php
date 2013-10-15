@@ -369,7 +369,7 @@
 
 <!-- Products======================================== -->
 <div id="portfolioSection">
-<h1 class="cntr">Our Portfolio</h1>
+<h1 class="cntr">Products</h1>
 <div class="container-fluid">	
 	<ul class="nav nav-pills">
 	<li class="active"><a href="#all" data-toggle="tab">ALL</a></li>
@@ -382,112 +382,16 @@
 <div class="tab-content label-primary">
 	<div class="tab-pane active" id="all">
 	<ul class="thumbnails">
-	<li class="span3">
+	<li class="span8 offset2">
 		<div class="thumbnail">
 			<div class="blockDtl">
-			<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-			<h4>Easy Interface</h4>
+			<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
+			<h4>All Services</h4>
 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
 			</div>
 		</div>
 		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li><li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li><li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>	
+		
 	</ul>
 	<div class="pagination pull-right">
 	  <ul>
@@ -501,335 +405,44 @@
 	</div>
 	<div class="tab-pane" id="new">
 	<ul class="thumbnails">
-	<li class="span3">
+	<li class="span8 offset2">
 		<div class="thumbnail">
 			<div class="blockDtl">
 			<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-			<h4>Easy Interface</h4>
+			<h4>All Services</h4>
 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
 			</div>
 		</div>
 		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li><li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li><li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>	
 	</ul>
 	
 	</div>
 	<div class="tab-pane" id="popular">
 	<ul class="thumbnails">
-	<li class="span3">
+	<li class="span8 offset2">
 		<div class="thumbnail">
 			<div class="blockDtl">
-			<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-			<h4>Easy Interface</h4>
+			<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
+			<h4>All Services</h4>
 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
 			</div>
 		</div>
 		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li><li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li><li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>	
 	</ul>
 	
 
 	</div>
 	<div class="tab-pane" id="comingsoon">
 	<ul class="thumbnails">
-	<li class="span3">
+	<li class="span8 offset2">
 		<div class="thumbnail">
 			<div class="blockDtl">
-			<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-			<h4>Easy Interface</h4>
+			<a href="#"><img src="themes/images/portfolio/2.jpg" alt=""></a>
+			<h4>All Services</h4>
 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
 			</div>
 		</div>
 		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li><li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li><li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>
-		<li class="span3">
-			<div class="thumbnail">
-				<div class="blockDtl">
-				<a href="#"><img src="themes/images/portfolio/1.jpg" alt=""></a>
-				<h4>Easy Interface</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
-				</div>
-			</div>
-		</li>	
 	</ul>
 	
 
