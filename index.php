@@ -69,7 +69,10 @@
 <div id="carouselSection" class="cntr"> 
 		<div id="myCarousel" class="carousel slide">
 			<div class="carousel-inner">
-				<div class="item active">
+                                <div class="item active">
+					<a class="cntr" href="#"><img src="themes/images/carousel/55.png" alt=""></a>
+				</div>
+				<div class="item">
 					<a class="cntr" href="#"><img src="themes/images/carousel/11.png" alt=""></a>
 				</div>
 				<div class="item">
