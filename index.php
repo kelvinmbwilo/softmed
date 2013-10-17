@@ -81,9 +81,6 @@
 				<div class="item">
 					<a class="cntr" href="#"><img src="themes/images/carousel/33.png" alt=""></a>
 				</div>
-				<div  class="item">
-					<a class="cntr" href="#"><img src="themes/images/carousel/44.png" alt=""></a>
-				</div>
 				
 			</div>
 			<a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
